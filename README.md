@@ -1,4 +1,4 @@
-# neural-network
+# neural-networks
 Learning Neural Networks at a deep level by coding from scratch.
 No direct neural network libraries used. 
 
